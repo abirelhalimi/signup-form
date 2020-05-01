@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    align-items: center;
+    color: white;
+    font-family: Darker Grotesque, sans-serif;
+}
+
+h1 {
+    font-family: Gabriela, sans-serif;
+    font-size: 40px;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #dd2a7b;
+}
+
+h4 a:hover {
+    border-bottom: 1px solid #dd2a7b;
+}
+
+input {
+    padding: 5px;
+    border: 0;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+form {
+    text-align: left;
+    margin-left: 325px;
+}
+
+.submit, .submit-fb {
+    text-align: center;
+    height: 30px;
+    width: 200px;
+    background-color: #282828;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+}
+
+.submit:hover {
+    background-color: white;
+    color: #282828;
+}
+
+.submit-fb:hover {
+    background-color: #515bd4;
+    border: 1px solid #515bd4;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form {
+    position: relative;
+}
+
+.group {
+    display: block;
+    margin: 20px auto;
+}
+
+.sign-up {
+    width: 850px;
+    height: 538px;
+    display: inline-block;
+    margin: 50px auto ;
+    background-color: #282828;
+    border-radius: 50px;
+}
+
+.container {
+    text-align: center;
+
+}
